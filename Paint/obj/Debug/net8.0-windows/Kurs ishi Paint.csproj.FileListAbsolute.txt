@@ -1,0 +1,36 @@
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\bin\Debug\net8.0-windows\Kurs ishi Paint.exe
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\bin\Debug\net8.0-windows\Kurs ishi Paint.deps.json
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\bin\Debug\net8.0-windows\Kurs ishi Paint.runtimeconfig.json
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\bin\Debug\net8.0-windows\Kurs ishi Paint.dll
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\bin\Debug\net8.0-windows\Kurs ishi Paint.pdb
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs_ishi_Paint.Form1.resources
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.csproj.GenerateResource.cache
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.AssemblyInfoInputs.cache
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.AssemblyInfo.cs
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.csproj.CoreCompileInputs.cache
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.dll
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\refint\Kurs ishi Paint.dll
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.pdb
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.genruntimeconfig.cache
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\ref\Kurs ishi Paint.dll
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs_ishi_Paint.Properties.Resources.resources
+C:\Users\Alisher_Mamirov\source\repos\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs_ishi_Paint.Form2.resources
+C:\Kurs ishi Paint\Kurs ishi Paint\bin\Debug\net8.0-windows\Kurs ishi Paint.exe
+C:\Kurs ishi Paint\Kurs ishi Paint\bin\Debug\net8.0-windows\Kurs ishi Paint.deps.json
+C:\Kurs ishi Paint\Kurs ishi Paint\bin\Debug\net8.0-windows\Kurs ishi Paint.runtimeconfig.json
+C:\Kurs ishi Paint\Kurs ishi Paint\bin\Debug\net8.0-windows\Kurs ishi Paint.dll
+C:\Kurs ishi Paint\Kurs ishi Paint\bin\Debug\net8.0-windows\Kurs ishi Paint.pdb
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs_ishi_Paint.Form1.resources
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs_ishi_Paint.Form2.resources
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs_ishi_Paint.Properties.Resources.resources
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.csproj.GenerateResource.cache
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.AssemblyInfoInputs.cache
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.AssemblyInfo.cs
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.csproj.CoreCompileInputs.cache
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.dll
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\refint\Kurs ishi Paint.dll
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.pdb
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\Kurs ishi Paint.genruntimeconfig.cache
+C:\Kurs ishi Paint\Kurs ishi Paint\obj\Debug\net8.0-windows\ref\Kurs ishi Paint.dll
